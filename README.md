@@ -1,4 +1,4 @@
-# Python-Introduction
+# Machine Learning and Python Introduction
 
 Session 1: 
 - Quick Introduction to Python 
