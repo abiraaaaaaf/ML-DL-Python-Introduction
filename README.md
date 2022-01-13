@@ -1,10 +1,10 @@
 # Machine Learning and Python Introduction
 
-Session 1: 
+**Session 1:** 
 - Quick Introduction to Python 
 - KNN Classification of iris Dataset
 
-Session 2:
+**Session 2:**
 - Pandas
 - Decision Tree Classification
 - Support Vector Classification
