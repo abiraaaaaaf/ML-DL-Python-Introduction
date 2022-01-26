@@ -8,3 +8,9 @@
 - Pandas
 - Decision Tree Classification
 - Support Vector Classification
+
+**Session 3:**
+- SVM Regression with different kernels
+- Decision Tree Regression
+- Gaussian Naive Bayes Classification
+- LDA
