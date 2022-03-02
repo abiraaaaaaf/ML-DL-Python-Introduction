@@ -14,3 +14,12 @@
 - Decision Tree Regression
 - Gaussian Naive Bayes Classification
 - LDA
+
+**Session 4:**
+- PCA
+- Logistic Regression
+- KFold Cross Validation
+- Ensemble Learning
+- Introduction to Neural Networks using PyTorch (MLP, Feed-forward, Back-propagation, Activation Function, Cross-Entropy Loss)
+
+
