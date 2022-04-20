@@ -24,4 +24,9 @@
 
 # Deep Learning and Python Introduction
 
-**Session 5:** 
+**Session 5-6-7:** 
+
+- Multi Layer Perceptrons in Tensorflow and PyTorch on Text and Image data
+- Introduction to Convolutional Neural Networks
+
+**Session 8:**
