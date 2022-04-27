@@ -30,3 +30,7 @@
 - Introduction to Convolutional Neural Networks
 
 **Session 8:**
+
+- Convolutional Neural Networks in Tensorflow
+- Word Embedding using Gensim
+- Visualization Examples
