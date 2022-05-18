@@ -22,6 +22,8 @@
 - Ensemble Learning
 - Introduction to Neural Networks using PyTorch (MLP, Feed-forward, Back-propagation, Activation Function, Cross-Entropy Loss)
 
+-----------------------------------------------------
+
 # Deep Learning and Python Introduction
 
 **Session 5-6-7:** 
@@ -40,3 +42,11 @@
 - Transfer Learning
 - Recurrent Neural Network (RNN), LSTM, and GRU
 - Attention
+
+**Session 10-11:**
+
+- LSTM (More Examples)
+- Attention Module
+- AutoEncoder
+- Generative Adversarial Networks
+
